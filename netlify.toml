@@ -1,3 +1,2 @@
 [build]
-  command = "pnpm install && pnpm run build"
   node_version = "18.12.0"
